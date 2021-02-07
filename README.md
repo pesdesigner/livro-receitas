@@ -4,3 +4,4 @@ Olá! Bem-vindo ao meu livro de receitas :wave:
 
 - Lasanha de frango
 - Pavê
+- Doce de abóbora
